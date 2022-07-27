@@ -3,8 +3,4 @@ describe('empty spec', () => {
     cy.visit(git 'https://example.cypress.io')
   })
 
-  it('passes', () => {
-    cy.visit(git 'https://example.cypress.io')
-  })
-
 })
